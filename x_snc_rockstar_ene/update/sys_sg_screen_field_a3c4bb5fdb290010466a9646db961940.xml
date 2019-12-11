@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>location</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>20</order>
+        <record_id_field/>
+        <screen display_value="Details">63c4bb5fdb290010466a9646db961929</screen>
+        <screen_data_item_table>x_snc_rockstar_ene_glide_brewing</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 20:42:28</sys_created_on>
+        <sys_id>a3c4bb5fdb290010466a9646db961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="Rockstar Energy" source="x_snc_rockstar_ene">2724bb1fdb290010466a9646db961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rockstar Energy">2724bb1fdb290010466a9646db961976</sys_scope>
+        <sys_update_name>sys_sg_screen_field_a3c4bb5fdb290010466a9646db961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 20:42:28</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=a3c4bb5fdb290010466a9646db961940"/>
+</record_update>

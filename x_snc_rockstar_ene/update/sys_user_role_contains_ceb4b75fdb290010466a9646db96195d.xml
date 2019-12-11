@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="rockstar_energy" name="rockstar_energy">06b4b75fdb290010466a9646db96192b</contains>
+        <role display_value="x_snc_rockstar_ene.rockstar.user" name="x_snc_rockstar_ene.rockstar.user">3134bb17db290010466a9646db96190c</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 20:42:05</sys_created_on>
+        <sys_id>ceb4b75fdb290010466a9646db96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rockstar_energy.x_snc_rockstar_ene.rockstar.user</sys_name>
+        <sys_package display_value="Rockstar Energy" source="x_snc_rockstar_ene">2724bb1fdb290010466a9646db961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rockstar Energy">2724bb1fdb290010466a9646db961976</sys_scope>
+        <sys_update_name>sys_user_role_contains_ceb4b75fdb290010466a9646db96195d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 20:42:05</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

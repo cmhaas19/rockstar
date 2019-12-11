@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Rockstar Ene 1576096865755" max_length="40" name="x_snc_rockstar_ene_1576096865755" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Quantity" label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="import_attribute_name=Reorder Level" label="Reorder Level" max_length="40" name="u_reorder_level" type="integer"/>
+        <element attributes="import_attribute_name=Reorder Time in Days" label="Reorder Time in Days" max_length="40" name="u_reorder_time_in_days" type="integer"/>
+        <element attributes="import_attribute_name=Unit Price" label="Unit Price" max_length="15" name="u_unit_price" type="decimal"/>
+    </element>
+</database>

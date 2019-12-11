@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Glide Brewings">11b4775fdb290010466a9646db96193e</category>
+        <columns>description,location,name,number,number_2,quantity,reorder_level,reorder_time_in_days,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,unit_price</columns>
+        <condition/>
+        <groups/>
+        <ignore_highlight>false</ignore_highlight>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 20:42:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1db4775fdb290010466a9646db96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rockstar Energy" source="x_snc_rockstar_ene">2724bb1fdb290010466a9646db961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rockstar Energy">2724bb1fdb290010466a9646db961976</sys_scope>
+        <sys_update_name>sys_aw_list_1db4775fdb290010466a9646db96194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 20:42:02</sys_updated_on>
+        <table>x_snc_rockstar_ene_glide_brewing</table>
+        <title>All</title>
+        <workspace display_value="Rockstar Energy">e4b4735fdb290010466a9646db961932</workspace>
+    </sys_aw_list>
+</record_update>
